@@ -1,3 +1,6 @@
 print("Hello World~")
 print("Happy~Happy~Happy~")
 print("OMG~")
+print("Hihihihi~")
+print("hihihih~")
+print("0000~")
